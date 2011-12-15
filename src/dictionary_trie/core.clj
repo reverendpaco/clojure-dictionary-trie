@@ -1,1 +1,2 @@
-(ns dictionary-trie.core)
+(ns dictionary-trie.core
+  (:use dictionary-trie.trie))
